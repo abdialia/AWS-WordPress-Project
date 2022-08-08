@@ -52,5 +52,6 @@ In order to download Wordpress, I executed the following command "wget https://w
 For improvement, I would have configured the WordPress site using NGINX webserver instead of Apache Webserver as NGINX is able to handle multiple requests from users to access the site without overloading due to its nature of being event driven. This would further improve on the first requirement which is to make the site high accessible.
 
 # I want to give a special thanks to:
-Amazon Web Services - For the amazing cloud resources & documentation.
+Amazon Web Services - For the amazing cloud resources & documentation./
+
 BashiirHagi - For his assistance and advice in guiding me in making this project.
