@@ -18,5 +18,5 @@ To connect to my Ubuntu instance, I established an SSH connect to remotely acces
 Once connect to my EC2 Instance, I ran the command "sudo su" using the CLI (Command Line Interface)to obtain root permissions. The next step was to install and configure the Apache webserver onto the EC2 (Ubuntu) Instance. 
 
 # 2.a: Installation
-To install the Apache WebServer I ran the command sudo apt-get install apache2. I agreed to the terms of the installation and the webserver was successfully installed. To verify that command was run, I ran the following command systemctl status apache2 and it showed me that the Apache webserver service was up and running.
+To install the Apache WebServer I ran the command sudo apt-get install apache2. I agreed to the terms of the installation and the webserver was successfully installed. To verify that command was run, I ran the following command "systemctl status apache2" and it showed me that the Apache webserver service was up and running.
 
